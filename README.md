@@ -18,8 +18,9 @@
 <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="typescript" height="100" title="BootStrap documentation"></a>
 <a href="https://help.figma.com/hc/en-us/categories/360002051613"><img src="https://skillicons.dev/icons?i=figma" alt="typescript" height="100" title="Figma documentation"></a>
 <a href="https://docs.github.com/pt/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="typescript" height="100" title="GithubActions documentation"></a>
+<!--
 <a href="https://docs.opencv.org/4.x/index.html"><img src="https://skillicons.dev/icons?i=opencv" alt="typescript" height="100" title="OpenCV documentation"></a>
-
+-->
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
