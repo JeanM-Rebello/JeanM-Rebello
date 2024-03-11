@@ -3,7 +3,7 @@
 <div>
 <br/>
 - 🖥️ Computer Engineering student, working in a research laboratory developing projects such as Full-Stack and learning DataScience<br/>
-- 🖌️ Proficient in front-end technologies like Bootstrap, TypeScrip, Angular as well as back-end technologies like Python, Django<br/>
+- 🖌️ Proficient in front-end technologies like Bootstrap, TypeScrip, Angular as well as back-end technologies like Django<br/>
 - 👓 Also learning DevOps, with CI/CD on Github with Github Actions, and Cloud infrastructure, with a focus on Azure<br/>
 
 </div>
