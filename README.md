@@ -134,4 +134,4 @@
 
 To contact me.
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jean-marcos-rebello-marinho-72a6a0268/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/jean-rebello)
