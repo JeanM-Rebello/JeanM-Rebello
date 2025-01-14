@@ -12,7 +12,6 @@
 
 <a href="https://docs.python.org/3/library/index.html"><img src="https://skillicons.dev/icons?i=python" alt="python" height="100" title="Python documentation"></a>
 <a href="https://docs.djangoproject.com/en/5.0/"><img src="https://skillicons.dev/icons?i=django" alt="django" height="100" title="Django documentation"></a>
-<a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=typescript" alt="typescript" height="100" title="TypeScript documentation"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="typescript" height="100" title="JavaScript documentation"></a>
 <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="typescript" height="100" title="BootStrap documentation"></a>
 <a href="https://help.figma.com/hc/en-us/categories/360002051613"><img src="https://skillicons.dev/icons?i=figma" alt="typescript" height="100" title="Figma documentation"></a>
