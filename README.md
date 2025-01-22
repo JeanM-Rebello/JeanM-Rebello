@@ -2,9 +2,9 @@
 # Hello! 👋 Who am I? #
 <div>
 <br/>
-- 🖥️ Computer Engineering student, working in a research laboratory developing projects such as Full-Stack and learning DataScience<br/>
-- 🖌️ Proficient in front-end technologies like Bootstrap, TypeScrip, Angular as well as back-end technologies like Django<br/>
-- 👓 Also learning DevOps, with CI/CD on Github with Github Actions, and Cloud infrastructure, with a focus on Azure<br/>
+- 🖥️ Computer Engineering student, working in a research laboratory developing Full-Stack projects and contributing to data analysis initiatives, with a focus on creating innovative solutions for academic and corporate environments.<br/>
+- 🛠️ Proficient in web development technologies, including Django, HTML5, CSS3, and Bootstrap, and experienced in containerized environments using Docker.<br/>
+- 🚀 Currently enhancing skills in DevOps practices, including CI/CD pipelines with GitHub Actions, and exploring advanced data manipulation and analysis using tools like Pandas and Openpyxl.<br/>
 
 </div>
 
